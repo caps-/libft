@@ -43,7 +43,8 @@ SRC_STR = ft_split.c \
 		  ft_strnstr.c \
 		  ft_strrchr.c \
 		  ft_strtrim.c \
-		  ft_substr.c
+		  ft_substr.c \
+		  ft_strequ.c
 
 SRCS = $(SRC_CHAR) \
 	   $(SRC_CONVERSION) \
